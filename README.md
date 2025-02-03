@@ -20,7 +20,7 @@ Test scenarios are selected based on the following key principles:
 
 5. Filter tasks (All, Active, Completed) – Ensure the filter works as expected.
 
-6. Persistent tasks after refresh – Verify tasks remain after reloading the page.
+6. Persistent tasks after refresh – Verify tasks should not remain after reloading the page.
 
 ❌ Negative Test Scenarios (Edge Cases & Invalid Inputs)
 
