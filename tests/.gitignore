@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Playwright & Cucumber Reports
+test-results/
+reports/
+*.log
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
